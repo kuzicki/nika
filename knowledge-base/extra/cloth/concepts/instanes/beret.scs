@@ -1,0 +1,7 @@
+beret
+<- concept_cloth;
+<- concept_headwear;
+=>nrel_main_idtf:
+    [берет](* <- lang_ru;; *);
+=>nrel_main_idtf:
+    [beret](* <- lang_en;; *);;

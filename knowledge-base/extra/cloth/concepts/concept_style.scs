@@ -1,0 +1,11 @@
+concept_style
+<- sc_node_class;
+<- class;
+<- concept_wit_entity;
+=> nrel_main_idtf:
+  [стиль]
+  (* <- lang_ru;; *);
+=> nrel_main_idtf:
+  [style]
+  (* <- lang_en;; *);
+=> nrel_note: [художественное направление или характерный внешний вид одежды](* <- lang_ru;; *);;

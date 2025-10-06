@@ -1,0 +1,7 @@
+belt
+<- concept_accessory;
+=>nrel_main_idtf:
+    [ремень](* <- lang_ru;; *);
+=>nrel_main_idtf:
+    [belt](* <- lang_en;; *);
+=> nrel_complements: dress;;

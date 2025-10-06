@@ -1,0 +1,11 @@
+concept_underwear
+<- sc_node_class;
+<- class;
+<- concept_wit_entity;
+=> nrel_main_idtf:
+  [нижняя одежда]
+  (* <- lang_ru;; *);
+=> nrel_main_idtf:
+  [underwear]
+  (* <- lang_en;; *);
+=> nrel_note: [предметы одежды, надеваемые непосредственно на тело под другие слои одежды](* <- lang_ru;; *);;

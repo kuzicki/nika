@@ -1,0 +1,8 @@
+coco_chanel
+<- concept_designer;
+=>nrel_main_idtf:
+    [Коко Шанель](* <- lang_ru;; *);
+=>nrel_main_idtf:
+    [Coco Chanel](* <- lang_en;; *);
+=> nrel_influenced_by: classic;
+=> nrel_collaborates_with: Chanel;;

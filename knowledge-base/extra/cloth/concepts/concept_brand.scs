@@ -1,0 +1,11 @@
+concept_brand
+<- sc_node_class;
+<- class;
+<- concept_wit_entity;
+=> nrel_main_idtf:
+  [бренд]
+  (* <- lang_ru;; *);
+=> nrel_main_idtf:
+  [brand]
+  (* <- lang_en;; *);
+=> nrel_note: [торговая марка или компания-производитель одежды](* <- lang_ru;; *);;

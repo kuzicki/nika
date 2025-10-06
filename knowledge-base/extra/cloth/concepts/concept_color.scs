@@ -1,0 +1,11 @@
+concept_color
+<- sc_node_class;
+<- class;
+<- concept_wit_entity;
+=> nrel_main_idtf:
+  [цвет]
+  (* <- lang_ru;; *);
+=> nrel_main_idtf:
+  [color]
+  (* <- lang_en;; *);
+=> nrel_note: [визуальная характеристика изделия, определяемая световым спектром](* <- lang_ru;; *);;

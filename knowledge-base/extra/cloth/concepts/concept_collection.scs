@@ -1,0 +1,11 @@
+concept_collection
+<- sc_node_class;
+<- class;
+<- concept_wit_entity;
+=> nrel_main_idtf:
+  [коллекция]
+  (* <- lang_ru;; *);
+=> nrel_main_idtf:
+  [collection]
+  (* <- lang_en;; *);
+=> nrel_note: [группа моделей одежды, объединенных общей концепцией, стилем или сезоном](* <- lang_ru;; *);;

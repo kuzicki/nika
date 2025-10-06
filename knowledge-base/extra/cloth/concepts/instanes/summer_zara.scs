@@ -1,0 +1,6 @@
+summer_zara
+<- concept_collection;
+=>nrel_main_idtf:
+    [Лето(Зара)](* <- lang_ru;; *);
+=>nrel_main_idtf:
+    [Summer(Zara)](* <- lang_en;; *);;

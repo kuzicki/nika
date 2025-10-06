@@ -1,0 +1,7 @@
+casual
+<- concept_style;
+=>nrel_main_idtf:
+    [кэжуал](* <- lang_ru;; *);
+=>nrel_main_idtf:
+    [casual](* <- lang_en;; *);
+=> nrel_popular_in: summer;;

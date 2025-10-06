@@ -1,0 +1,6 @@
+leather
+<- concept_fabric;
+=>nrel_main_idtf:
+    [кожа](* <- lang_ru;; *);
+=>nrel_main_idtf:
+    [leather](* <- lang_en;; *);;

@@ -1,0 +1,7 @@
+client
+<- concept_customer;
+=>nrel_main_idtf:
+    [клиент](* <- lang_ru;; *);
+=>nrel_main_idtf:
+    [client](* <- lang_en;; *);
+=> nrel_buys: dress;;

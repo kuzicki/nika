@@ -1,0 +1,7 @@
+pilati
+<- concept_designer;
+=>nrel_main_idtf:
+    [Пилати](* <- lang_ru;; *);
+=>nrel_main_idtf:
+    [Pilati](* <- lang_en;; *);
+=> nrel_works_for: zara;;

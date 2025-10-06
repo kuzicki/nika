@@ -1,0 +1,11 @@
+concept_season
+<- sc_node_class;
+<- class;
+<- concept_wit_entity;
+=> nrel_main_idtf:
+  [сезон]
+  (* <- lang_ru;; *);
+=> nrel_main_idtf:
+  [season]
+  (* <- lang_en;; *);
+=> nrel_note: [время года, для которого предназначена одежда (весна-лето, осень-зима)](* <- lang_ru;; *);;

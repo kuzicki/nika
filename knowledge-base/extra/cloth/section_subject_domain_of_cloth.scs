@@ -1,0 +1,30 @@
+section_subject_domain_of_cloth
+=> nrel_main_idtf:
+  [Раздел. Предметная область одежда]
+  (* <- lang_ru;; *);
+=> nrel_main_idtf:
+  [Section. Subject domain of cloth]
+  (* <- lang_en;; *);
+<- atomic_section;
+-> rrel_key_sc_element:
+  subject_domain_of_cloth;;
+
+
+
+section_subject_domain_of_cloth = [*
+subject_domain_of_cloth
+<- sc_node_struct;
+=> nrel_main_idtf:
+  [Предметная область одежда]
+  (* <- lang_ru;; *);
+=> nrel_main_idtf:
+  [Section domain of cloth]
+  (* <- lang_en;; *);
+<- subject_domain;
+-> rrel_maximum_studied_object_class:
+  concept_cloth;
+-> rrel_not_maximum_studied_object_class:
+  concept_style;
+-> rrel_explored_relation:
+  nrel_created_by;;
+*];;

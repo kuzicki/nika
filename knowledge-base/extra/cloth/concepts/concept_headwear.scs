@@ -1,0 +1,11 @@
+concept_headwear
+<- sc_node_class;
+<- class;
+<- concept_wit_entity;
+=> nrel_main_idtf:
+  [головной убор]
+  (* <- lang_ru;; *);
+=> nrel_main_idtf:
+  [headwear]
+  (* <- lang_en;; *);
+=> nrel_note: [предметы, предназначенные для ношения на голове](* <- lang_ru;; *);;

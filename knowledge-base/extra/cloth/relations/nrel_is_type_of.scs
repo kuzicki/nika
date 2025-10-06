@@ -1,0 +1,20 @@
+nrel_is_type_of
+<- sc_node_norole_relation;
+<- relation;
+<- binary_relation;
+<- oriented_relation;
+<- antireflexive_relation;
+<- asymmetric_relation;
+<- antitransitive_relation;
+=> nrel_main_idtf:
+    [является типом*] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+    [is type of*] (* <- lang_en;; *);
+=> nrel_first_domain:
+    concept_underwear;
+=> nrel_first_domain:
+    concept_outerwear;
+=> nrel_first_domain:
+    concept_footwear;
+=> nrel_second_domain:
+    concept_cloth;;

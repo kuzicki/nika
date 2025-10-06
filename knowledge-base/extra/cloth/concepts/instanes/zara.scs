@@ -1,0 +1,6 @@
+zara
+<- concept_brand;
+=>nrel_main_idtf:
+    [Зара](* <- lang_ru;; *);
+=>nrel_main_idtf:
+    [Zara](* <- lang_en;; *);;

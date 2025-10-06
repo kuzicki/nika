@@ -1,0 +1,6 @@
+jacket
+<- concept_cloth;
+=>nrel_main_idtf:
+    [куртка](* <- lang_ru;; *);
+=>nrel_main_idtf:
+    [jacket](* <- lang_en;; *);;

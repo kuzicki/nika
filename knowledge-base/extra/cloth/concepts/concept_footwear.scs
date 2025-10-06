@@ -1,0 +1,11 @@
+concept_footwear
+<- sc_node_class;
+<- class;
+<- concept_wit_entity;
+=> nrel_main_idtf:
+  [обувь]
+  (* <- lang_ru;; *);
+=> nrel_main_idtf:
+  [footwear]
+  (* <- lang_en;; *);
+=> nrel_note: [предметы, предназначенные для ношения на ногах](* <- lang_ru;; *);;

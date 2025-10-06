@@ -1,0 +1,7 @@
+bodysuit
+<- concept_cloth;
+<- concept_underwear;
+=>nrel_main_idtf:
+    [боди](* <- lang_ru;; *);
+=>nrel_main_idtf:
+    [bodysuit](* <- lang_en;; *);;

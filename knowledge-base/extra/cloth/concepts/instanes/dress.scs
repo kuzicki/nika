@@ -1,0 +1,13 @@
+dress
+<- concept_cloth;
+=>nrel_main_idtf:
+    [платье](* <- lang_ru;; *);
+=>nrel_main_idtf:
+    [dress](* <- lang_en;; *);
+=> nrel_belongs_to: winter_chanel;
+=> nrel_created_by: chanel;
+=> nrel_has_color: white;
+=> nrel_made_from: silk;
+=> nrel_has_style: classic;
+=> nrel_popular_in: winter;
+=> nrel_designed_by: coco_chanel;;

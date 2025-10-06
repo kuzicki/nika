@@ -1,0 +1,6 @@
+chanel
+<- concept_brand;
+=>nrel_main_idtf:
+    [Шанель](* <- lang_ru;; *);
+=>nrel_main_idtf:
+    [Chanel](* <- lang_en;; *);;

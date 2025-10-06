@@ -1,0 +1,16 @@
+nrel_collaborates_with
+<- sc_node_norole_relation;
+<- relation;
+<- binary_relation;
+<- oriented_relation;
+<- reflexive_relation;
+<- symmetric_relation;
+<- transitive_relation;
+=> nrel_main_idtf:
+    [сотрудничает с*] (* <- lang_ru;; *);
+=> nrel_main_idtf:
+    [collaborates with*] (* <- lang_en;; *);
+=> nrel_first_domain:
+    concept_designer;
+=> nrel_second_domain:
+    concept_brand;;

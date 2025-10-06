@@ -1,0 +1,6 @@
+jeans
+<- concept_cloth;
+=>nrel_main_idtf:
+    [джинсы](* <- lang_ru;; *);
+=>nrel_main_idtf:
+    [jeans](* <- lang_en;; *);;

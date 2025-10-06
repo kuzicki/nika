@@ -1,0 +1,6 @@
+winter
+<- concept_season;
+=>nrel_main_idtf:
+    [зима](* <- lang_ru;; *);
+=>nrel_main_idtf:
+    [winter](* <- lang_en;; *);;

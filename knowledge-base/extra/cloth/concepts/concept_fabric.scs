@@ -1,0 +1,11 @@
+concept_fabric
+<- sc_node_class;
+<- class;
+<- concept_wit_entity;
+=> nrel_main_idtf:
+  [ткань]
+  (* <- lang_ru;; *);
+=> nrel_main_idtf:
+  [fabric]
+  (* <- lang_en;; *);
+=> nrel_note: [материал, из которого изготовлено изделие, образованный переплетением нитей](* <- lang_ru;; *);;

@@ -1,0 +1,11 @@
+concept_customer
+<- sc_node_class;
+<- class;
+<- concept_wit_entity;
+=> nrel_main_idtf:
+  [покупатель]
+  (* <- lang_ru;; *);
+=> nrel_main_idtf:
+  [customer]
+  (* <- lang_en;; *);
+=> nrel_note: [физическое или юридическое лицо, которое приобретает одежду](* <- lang_ru;; *);;

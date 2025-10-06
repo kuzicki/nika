@@ -1,0 +1,6 @@
+cotton
+<- concept_fabric;
+=>nrel_main_idtf:
+    [хлопок](* <- lang_ru;; *);
+=>nrel_main_idtf:
+    [cotton](* <- lang_en;; *);;

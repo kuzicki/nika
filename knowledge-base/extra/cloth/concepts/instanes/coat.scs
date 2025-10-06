@@ -1,0 +1,7 @@
+coat
+<- concept_cloth;
+<- concept_outerwear;
+=>nrel_main_idtf:
+    [пальто](* <- lang_ru;; *);
+=>nrel_main_idtf:
+    [coat](* <- lang_en;; *);;
